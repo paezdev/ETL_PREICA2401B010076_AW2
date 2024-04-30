@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-4NV230H_SQLEXPRESS.StaginGitHub"
+  DTS:DTSID="{136D621A-AE00-4B1B-9362-D445427EE46E}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-4NV230H\SQLEXPRESS;Initial Catalog=StaginGitHub;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_PREICA2401B010076_AW2-{136D621A-AE00-4B1B-9362-D445427EE46E}DESKTOP-4NV230H\SQLEXPRESS.StaginGitHub;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-4NV230H_SQLEXPRESS.AdventureWorks2022"
+  DTS:DTSID="{C3CBAED6-F694-494E-8AFB-1207CE1375CD}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-4NV230H\SQLEXPRESS;Initial Catalog=AdventureWorks2022;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_PREICA2401B010076_AW2-{C3CBAED6-F694-494E-8AFB-1207CE1375CD}DESKTOP-4NV230H\SQLEXPRESS.AdventureWorks2022;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
